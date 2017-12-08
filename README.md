@@ -9,6 +9,7 @@ For emergency management teams, NARA is a sophisticated alert system that allows
 NARA helps first response teams and disaster victims exchange personalized information, reducing information overload and confusion, and resulting in effective responses to rapidly-changing situations.
  
  **NARA is a winner of the 2017 MD5/Department of Defense National Security Technology Accelerator Hackathon for Humanitarian Assistance and Disaster Relief*
+ 
 **This project has been uploaded for the Hackmind.ai application*
  
 
