@@ -7,9 +7,10 @@ For disaster victims NARA is an interactive alert system on platforms people alr
 For emergency management teams, NARA is a sophisticated alert system that allows for targeted messages to be pushed out based on disaster victims' geography, user needs, and self-reported safety statuses. NARA allows first response teams to provide detailed information in alerts with external links, images, and videos. Conversations with NARA reduce traffic to critical websites and 911 call centers.
 
 NARA helps first response teams and disaster victims exchange personalized information, reducing information overload and confusion, and resulting in effective responses to rapidly-changing situations.
-
-
-
+ 
+ **NARA is a winner of the 2017 MD5/Department of Defense National Security Technology Accelerator Hackathon for Humanitarian Assistance and Disaster Relief*
+**This project has been uploaded for the Hackmind.ai application*
+ 
 
 ### Technology Stack:
 * JavaScript
