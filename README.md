@@ -1,4 +1,4 @@
-# NARA - National Autonomous Relief and Aid
+# NARA - National Autonomous Relief and Aid Sample Code
 
 When disaster strikes, getting the right information to the right people is paramount to public safety. However, as multiple sources push out new information, disaster victims get information overload or don't get information at all.
 
