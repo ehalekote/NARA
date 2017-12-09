@@ -1,4 +1,4 @@
-# NARA - National Autonomous Relief and Aid Sample Code
+# National Autonomous Relief and Aid (NARA) Sample Code
 
 When disaster strikes, getting the right information to the right people is paramount to public safety. However, as multiple sources push out new information, disaster victims get information overload or don't get information at all.
 
@@ -10,7 +10,7 @@ NARA helps first response teams and disaster victims exchange personalized infor
  
  **NARA is a winner of the 2017 MD5/Department of Defense National Security Technology Accelerator Hackathon for Humanitarian Assistance and Disaster Relief*
  
-**This project has been uploaded for the Hackmind.ai application*
+**This project has been uploaded for the Hackmind.ai application, and is an excerpt of the NARA project's sample code*
  
 
 ### Technology Stack:
